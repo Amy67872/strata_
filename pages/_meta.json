@@ -5,11 +5,6 @@
   "about": {
     "title": "About",
     "type": "page"
-  },
-  "contact": {
-    "title": "Contact",
-    "type": "page",
-    "href": "/pages/contact"  
   }
 }
 

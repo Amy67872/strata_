@@ -1,5 +1,6 @@
 export default {
-    theme: 'nextra-theme-docs',
-    themeConfig: './theme.config.tsx',
+    themeConfig: {
+      logo: <>Strata Portal</>,
+    },
   }
   
